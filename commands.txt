@@ -3,3 +3,5 @@ git commit -m "thsih"
 ls -la
 git init
 cd ..
+git log
+git log --author="second"
