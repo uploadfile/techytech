@@ -6,3 +6,5 @@ cd ..
 git log
 git log --author="second"
 git status
+"working copy, then staging area and lastly the repo"
+git diff
