@@ -5,3 +5,4 @@ git init
 cd ..
 git log
 git log --author="second"
+git status
