@@ -13,3 +13,14 @@ git rm filename.txt
 git mv file1.txt file2.txt //renames file 1 to file2
 git mv file1.txt directory/newname.txt
 git commit -am "djsgfds"
+git checkout -- file.txt // -- means branches //this command makes the repo file as the working copy 
+//so if u make a blunder, just don't worry
+//head is a pointer
+git reset HEAD file.txt
+//this command removes file from staging area and brings it in the working area
+git checkout 7digitcommit_no  and file name
+//this brings this fike which was commited in that no to the working copy
+git remote add githubRepo_name www.link
+git remote //to check for the github repo we r working on
+-u means take all
+git push -u githubrepo_name//pushes files on the net
