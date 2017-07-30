@@ -12,3 +12,4 @@ git diff --staged compares staging area with repo
 git rm filename.txt
 git mv file1.txt file2.txt //renames file 1 to file2
 git mv file1.txt directory/newname.txt
+git commit -am "djsgfds"
